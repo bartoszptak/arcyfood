@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "A nóż widelec", "TEL": "506 831 265", "URL": "https:\/\/anozwidelec.com\/", "ADRESS1": "Czechosłowacka 133", "ADDRESS2": null, "CITY": "Poznań", "ZIP": "61-425" }, "geometry": { "type": "Point", "coordinates": [ 52.3765802, 16.8902838 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Modra Kuchnia", "TEL": "730 223 387", "URL": "https:\/\/www.facebook.com\/ModraKuchnia\/", "ADRESS1": "Mickiewicza 18/lokal 2", "ADDRESS2": null, "CITY": "Poznań", "ZIP": "60-834" }, "geometry": { "type": "Point", "coordinates": [ 52.4116344, 16.9118195 ] } }
+
+]
+}

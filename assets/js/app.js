@@ -151,10 +151,10 @@ var markerClusters = new L.MarkerClusterGroup({
 
 /* Map Center */
 map = L.map("map", {
-  zoom: 10,
-  center: [40.702222, -73.979378],
+  zoom: 7,
+  center: [52.06993, 19.4803],
   layers: [cartoLight, markerClusters, highlight],
-  zoomControl: false,
+  zoomControl: true,
   attributionControl: false
 });
 
@@ -318,7 +318,7 @@ var museums = L.geoJson(null, {
     }
   }
 });
-$.getJSON("data/DOITT_MUSEUM_01_13SEPT2010.geojson", function (data) {
+$.getJSON("data/restauracje.geojson", function (data) {
   museums.addData(data);
 });
 
@@ -420,18 +420,14 @@ if (document.body.clientWidth <= 767) {
 }
 
 var baseLayers = {
-  "Street Map": cartoLight,
-  "Aerial Imagery": usgsImagery
+  "Mapa": cartoLight,
+  "Satelita": usgsImagery
 };
 
 var groupedOverlays = {
-  "Points of Interest": {
-    "<img src='assets/img/theater.png' width='24' height='28'>&nbsp;Theaters": theaterLayer,
-    "<img src='assets/img/museum.png' width='24' height='28'>&nbsp;Museums": museumLayer
-  },
-  "Reference": {
-    "Boroughs": boroughs,
-    "Subway Lines": subwayLines
+  "Punkty": {
+    "<img src='assets/img/theater.png' width='24' height='28'>&nbsp;Kawiarnie": theaterLayer,
+    "<img src='assets/img/museum.png' width='24' height='28'>&nbsp;Restauracje": museumLayer
   }
 };
 
