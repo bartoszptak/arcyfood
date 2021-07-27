@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "NAME": "Beza Cukiernia Bezowa",
+                "TEL": "61 101 56 06",
+                "URL": "https:\/\/cukierniabezowa.pl",
+                "ADRESS1": "Za Groblą 5/14, 61-860 Poznań",
+                "CITY": "Poznań",
+                "ZIP": "61-860",
+                "YT": "Nieoczywisty Poznań (odc. 22)",
+                "YTURL": "https://youtu.be/DZpv2ahLAlI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.94195,
+                    52.403699
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 0,
+            "properties": {
+                "NAME": "A nóż widelec",
+                "TEL": "506 831 265",
+                "URL": "https:\/\/anozwidelec.com\/",
+                "ADDRESS": "Czechosłowacka 133, 61-425 Poznań",
+                "CITY": "Poznań",
+                "ZIP": "61-425",
+                "YT": "Nieoczywisty Poznań (odc.22)",
+                "YTURL": "https:\/\/youtu.be\/DZpv2ahLAlI"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8902838,
+                    52.3765802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1,
+            "properties": {
+                "NAME": "Modra Kuchnia",
+                "TEL": "730 223 387",
+                "URL": "https:\/\/www.facebook.com\/ModraKuchnia\/",
+                "ADDRESS": "Mickiewicza 18/lokal 2, 60-834 Poznań",
+                "CITY": "Poznań",
+                "ZIP": "60-834",
+                "YT": "",
+                "YTURL": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9118195,
+                    52.4116344
+                ]
+            }
+        }
+    ]
+}
