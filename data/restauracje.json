@@ -6,13 +6,42 @@
             "id": 0,
             "properties": {
                 "NAME": "A nóż widelec",
-                "TEL": "506 831 265",
                 "URL": "https:\/\/anozwidelec.com\/",
                 "ADDRESS": "Czechosłowacka 133, 61-425 Poznań",
                 "CITY": "Poznań",
                 "ZIP": "61-425",
                 "YT": "Nieoczywisty Poznań (odc.22)",
-                "YTURL": "https:\/\/youtu.be\/DZpv2ahLAlI"
+                "YTURL": "https:\/\/youtu.be\/DZpv2ahLAlI",
+                "FOOD": [
+                    {
+                        "DEST": "Wędliny z mangalicy. Polędwica dojrzewająca, schabik, pastrami.",
+                        "IMG": "data/restauracje/0/mangalica.jpg"
+                    },
+                    {
+                        "DEST": "Pstrąg wędzony na zimno. Tatar z pstrąga.",
+                        "IMG": "data/restauracje/0/pstrag.jpg"
+                    },
+                    {
+                        "DEST": "Pierogi ruskie na wędzonym twarogu + (genialne) bub i kurki.",
+                        "IMG": "data/restauracje/0/pierogi.jpg"
+                    },
+                    {
+                        "DEST": "Filet z jelenia z sosem z wiśni.",
+                        "IMG": "data/restauracje/0/jelen.jpg"
+                    },
+                    {
+                        "DEST": "Zupa szczawiowa z boczkiem.",
+                        "IMG": "data/restauracje/0/szczaw.jpg"
+                    },
+                    {
+                        "DEST": "Kula czekoladowa z gorącym sosem waniliowym.",
+                        "IMG": "data/restauracje/0/kula.jpg"
+                    },
+                    {
+                        "DEST": "Szarlotka z bezem i lodami i sosem cynamonowym.",
+                        "IMG": "data/restauracje/0/szarlotka.jpg"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -27,13 +56,18 @@
             "id": 1,
             "properties": {
                 "NAME": "Modra Kuchnia",
-                "TEL": "730 223 387",
                 "URL": "https:\/\/www.facebook.com\/ModraKuchnia\/",
                 "ADDRESS": "Mickiewicza 18/lokal 2, 60-834 Poznań",
                 "CITY": "Poznań",
                 "ZIP": "60-834",
-                "YT": "",
-                "YTURL": ""
+                "YT": "Nieoczywisty Poznań (odc.22)",
+                "YTURL": "https:\/\/youtu.be\/DZpv2ahLAlI",
+                "FOOD": [
+                    {
+                        "DEST": "Pyza z kaczką po poznańsku z łóżeczkiem z modrej kapusty.",
+                        "IMG": "data/restauracje/1/modra.jpg"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Point",
