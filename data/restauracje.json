@@ -102,7 +102,7 @@
                         "IMG": "data/restauracje/2/dzik.jpg"
                     },
                     {
-                        "DEST": "Pierogi z pieczonymi jabłkami.",
+                        "DEST": "Pierogi z pieczonymi jabłkami i białą czekoladą.",
                         "IMG": "data/restauracje/2/jablko.jpg"
                     }
                 ]
@@ -110,8 +110,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    16.9118195,
-                    52.4116344
+                    17.1600416,
+                    52.1556816
                 ]
             }
         }
