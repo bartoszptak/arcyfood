@@ -76,6 +76,44 @@
                     52.4116344
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "properties": {
+                "NAME": "Pozytywka",
+                "URL": "https:\/\/www.facebook.com\/restauracjapozytywkakontakt\/",
+                "ADDRESS": "Średzka 1,  63-020 Zaniemyśl",
+                "CITY": "Zaniemyśl",
+                "ZIP": " 63-020",
+                "YT": "Wielkopolskie cuda (odc.53)",
+                "YTURL": "https:\/\/www.youtube.com\/watch?v=rHBzFcX1xLQ",
+                "FOOD": [
+                    {
+                        "DEST": "Czernina z domowym makaronem.",
+                        "IMG": "data/restauracje/2/czernina.jpg"
+                    },
+                    {
+                        "DEST": "Schabowy opanierowany z pyrą i gzikiem oraz grilowane warzywa.",
+                        "IMG": "data/restauracje/2/schab.jpg"
+                    },
+                    {
+                        "DEST": "Pierogi z farszem z dzika podane w sosie grzybowym.",
+                        "IMG": "data/restauracje/2/dzik.jpg"
+                    },
+                    {
+                        "DEST": "Pierogi z pieczonymi jabłkami.",
+                        "IMG": "data/restauracje/2/jablko.jpg"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9118195,
+                    52.4116344
+                ]
+            }
         }
     ]
 }
